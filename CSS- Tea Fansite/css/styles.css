@@ -1,0 +1,21 @@
+h1{
+font: small-caps bold 500%/1 sans-serif;
+text-align: center;
+}
+body{
+background-color:#c4ffe5;
+color:#32bf81;
+font: small-caps bold 200%/1 sans-serif;
+text-align: center;
+}
+img:hover{
+height:15% ;
+width:15% ;
+}
+/*********/
+#heading{
+  color:#45ffad;
+}
+.bright{
+  color: #45ffad;
+}
